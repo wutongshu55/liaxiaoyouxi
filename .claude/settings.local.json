@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(g++ -o shooter.exe shooter.cpp -static)",
-      "Bash(mv Project1/dyg.cpp src/)",
-      "Bash(mv Project1/shooter.cpp src/)"
-    ]
-  }
-}

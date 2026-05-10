@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+build/
+Debug/
+Release/
+x64/
+Win32/
+
+# Compiled files
+*.exe
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.idb
+
+# Project files
+*.vcxproj.filters
+*.vcxproj.user
+
+# IDE
+.claude/
