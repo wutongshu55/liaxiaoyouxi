@@ -1,9 +1,12 @@
 # Visual Studio
 .vs/
-*.user
 *.suo
+*.user
 *.userosscache
 *.sln.docstates
+*.db
+*.db-shm
+*.db-wal
 
 # Build outputs
 bin/
@@ -12,6 +15,7 @@ Debug/
 Release/
 x64/
 Win32/
+ipch/
 
 # Compiled files
 *.exe
@@ -20,6 +24,10 @@ Win32/
 *.pdb
 *.ilk
 *.idb
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
 
 # Project files
 *.vcxproj.filters
